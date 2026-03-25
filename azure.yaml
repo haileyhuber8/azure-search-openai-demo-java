@@ -3,3 +3,6 @@
 name: azure-search-openai-demo-java
 metadata:
   template: azure-search-openai-demo-java@0.0.1-beta
+infrastructure:
+  provider: bicep
+  path: deploy/aca/infra
